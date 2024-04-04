@@ -106,6 +106,10 @@ nav {
     width: 60%;
 }
 
+#about {
+    background-color: (220, 16%, 96%);
+}
+
 .about-para {
     padding-left: 9rem;
 }
